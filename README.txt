@@ -1,1 +1,1 @@
-This repo includes tip-tricks in Technical field
+This repo include tip-tricks
